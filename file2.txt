@@ -2,4 +2,3 @@ This is line1 in file1
 This is line2 in file1
 This is line3 in file2 (renamed from file1)
 This is line4 in file2
-This is line5 in file2
